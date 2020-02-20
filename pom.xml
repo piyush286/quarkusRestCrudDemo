@@ -12,7 +12,7 @@
 
   <groupId>io.quarkus</groupId>
   <artifactId>rest-http-crud-parent</artifactId>
-  <version>1.0.0.Alpha1-SNAPSHOT</version>
+  <version>QUARKUS_VERSION-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>Relational Database Backend Mission parent</name>

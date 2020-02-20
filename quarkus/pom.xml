@@ -7,7 +7,7 @@
   <parent>
     <groupId>io.quarkus</groupId>
     <artifactId>rest-http-crud-parent</artifactId>
-    <version>1.0.0.Alpha1-SNAPSHOT</version>
+    <version>QUARKUS_VERSION-SNAPSHOT</version>
   </parent>
 
   <artifactId>rest-http-crud-quarkus</artifactId>
@@ -15,7 +15,7 @@
   <name>Quarkus - Relational Database Backend Mission</name>
 
   <properties>
-    <version.quarkus>1.11.0.Final</version.quarkus>
+    <version.quarkus>QUARKUS_VERSION</version.quarkus>
   </properties>
 
   <dependencyManagement>
